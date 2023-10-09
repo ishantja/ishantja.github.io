@@ -3,23 +3,30 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 
 <h1>Hi, I'm Ishan! <br/><a href="https://github.com/ishantja">Programmer</a>, <a href="https://www.linkedin.com/in/ishantamrakar/">Robotics and AI Professional</a>, <a href="https://www.youtube.com/@ishantamrakar">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🗂️ Projects Portfolio:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>🦾 Robotics Projects</b>
+  - [Manufacturing Robot Software System in ROS2](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Robot Localization using particle filters](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Efficient Sampling Based Path Planning Algorithm](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Open Loop controller for Turtlebot3 in ROS2](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Lane detection with failure case handling using classical computer vision techniques](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [UAV development and testing](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+- <b>🤖 Computer Vision and AI</b>
+  - [3D depth estimation and 3D reconstruction using affine SFM](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Panaroma using homography image stitching](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Ensemble and Federated Learning in Huggingface 🤗 with tests for data distribution](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Image Classification using PyTorch 🔥](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Object Detection using PyTorch 🔥](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Image Segmentation using PyTorch 🔥](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Finetuning and Multi Task Learnin for Natural Language Processing using Huggingface 🤗](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Frane Rate Interpolation Using Auto-Encoder based unsupervised learning](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+- <b>👨‍💻 Other Programming Skills Related Projects:</b>
+  - [Full Client-Server Application for Haptic Bands](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [AR hand tracking and object manipulation in unity](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [VR locomotion for MetaQuest2 using unity](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Maze path finding mouse in C++ OOP](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
+  - [Vanilla JavaScript Web Development](https://github.com/ishantja/Image-Human-Segmentation-Pytorch)
 
 <h2>📺 Popular YouTube Videos</h2>
 

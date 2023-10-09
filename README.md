@@ -38,7 +38,7 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IshanTamrakar | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" />][youtube]
-[<img align="left" alt="IshanTamrakar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="IshanTamrakar | Twitter" width="22px" src="https://github.com/ishantja/ishantja.github.io/blob/main/icons8-twitterx.svg" />][twitter]
 [<img align="left" alt="IshanTamrakar | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
 [<img align="left" alt="IshanTamrakar | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
 

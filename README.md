@@ -37,10 +37,10 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="IshanTamrakar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="IshanTamrakar | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" />][youtube]
 [<img align="left" alt="IshanTamrakar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IshanTamrakar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IshanTamrakar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="IshanTamrakar | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
+[<img align="left" alt="IshanTamrakar | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/ishantjr
 [youtube]: https://www.youtube.com/@ishantamrakar

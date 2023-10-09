@@ -23,10 +23,10 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [ROS2 Open Loop Controller for Turtlebot3]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.youtube.com/watch?v=vYdHw4JdlDA&t=213s))
-- [AR in Unity Demo]([https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.youtube.com/watch?v=WJY_CME71ao&t=29s))
-- [Spatialized Steam Audio, Texture Maps, and Locomotion in Unity]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.youtube.com/watch?v=o4A0575CVps))
-- [VR Locomotion in MetaQuest2 using Unity]([https://www.youtube.com/watch?v=OfvdQeh79s0](https://www.youtube.com/watch?v=FozjemnP6lk))
+- [ROS2 Open Loop Controller for Turtlebot3](https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.youtube.com/watch?v=vYdHw4JdlDA&t=213s)
+- [AR in Unity Demo](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.youtube.com/watch?v=WJY_CME71ao&t=29s)
+- [Spatialized Steam Audio, Texture Maps, and Locomotion in Unity](https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.youtube.com/watch?v=o4A0575CVps)
+- [VR Locomotion in MetaQuest2 using Unity](https://www.youtube.com/watch?v=OfvdQeh79s0](https://www.youtube.com/watch?v=FozjemnP6lk)
 
 <h2> 🤳 Connect with me:</h2>
 

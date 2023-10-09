@@ -23,7 +23,7 @@ Portfolio for Ishan Tamrakar, Robotics and AI Engineer from University of Maryla
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [ROS2 Open Loop Controller for Turtlebot3](www.youtube.com/watch?v=vYdHw4JdlDA&t=213s)
+- [ROS2 Open Loop Controller for Turtlebot3](https://www.youtube.com/watch?v=vYdHw4JdlDA&t=213s)
 - [AR in Unity Demo](https://www.youtube.com/watch?v=WJY_CME71ao&t=29s)
 - [Spatialized Steam Audio, Texture Maps, and Locomotion in Unity](https://www.youtube.com/watch?v=o4A0575CVps)
 - [VR Locomotion in MetaQuest2 using Unity](https://www.youtube.com/watch?v=FozjemnP6lk)
